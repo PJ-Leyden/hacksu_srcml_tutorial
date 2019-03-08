@@ -1,2 +1,2 @@
-# hacksu_srcml_tutorial
+# srcml_tutorial
 Repo for hacksu tutorial files
